@@ -1,9 +1,9 @@
 body {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-  font-size: 18px;
-  color: #777;
+  font-size: 16px;
+  color: gray;
   line-height: 34px;
-  background: url("../images/concrete_seamless.png");
+  background: url("images/programmer-1653351_960_720.png");
 }
 
 * {
@@ -45,11 +45,11 @@ footer,
 
 #logo:hover,
 input[type=submit]:hover {
-  background: #5E7F7E;
+  background: gray;
 }
 
 nav a:hover {
-  color: #5E7F7E;
+  color: blue;
 }
 
 .social:hover {
@@ -83,14 +83,14 @@ h2,
 h3 {
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: blue;
 }
 
 h1 {
   padding-bottom: 20px;
   font-size: 30px;
   line-height: 49px;
-  border-bottom: 3px solid #ddd;
+  border-bottom: 3px solid blue;
 }
 
 h2,
@@ -107,9 +107,9 @@ h3 {
   margin: 0 0 30px;
   width: 100%;
   overflow: auto;
-  color: #fff;
+  color: blue;
   background: #fff;
-  border-bottom: 2px solid #ccc;
+  border-bottom: 2px solid gray;
 }
 
 #logo {
@@ -123,7 +123,7 @@ h3 {
   text-align: center;
   text-decoration: none;
   line-height: 90px;
-  background: #4aaaa5;
+  background: blue;
 }
 
 nav {
@@ -135,7 +135,7 @@ nav a {
   display: inline-block;
   margin-left: 15px;
   padding-left: 15px;
-  color: #999;
+  color: blue;
   text-decoration: none;
   line-height: 18px;
   border-left: 1px solid #efefef;
@@ -153,10 +153,10 @@ footer {
   clear: both;
   color: #fff;
   color: #ccc;
-  font-size: 12px;
+  font-size: 15px;
   text-align: center;
-  background: #666;
-  border-top: 8px solid #4aaaa5;
+  background: clear; 
+  border-top: 2px solid gray;
 }
 
 
@@ -169,7 +169,7 @@ footer {
   width: 100%;
   max-width: 270px;
   background: #fff;
-  border: 1px solid #ddd;
+  border: 1px solid gray;
 }
 
 h3,
@@ -177,7 +177,7 @@ h3,
   margin-bottom: 15px;
   padding-bottom: 20px;
   line-height: 22px;
-  border-bottom: 2px solid #eee;
+  border-bottom: 2px solid blue;
 }
 
 .social {
@@ -204,8 +204,8 @@ h3,
   padding: 30px;
   width: 100%;
   max-width: 650px;
-  background: #fff;
-  border: 1px solid #ddd;
+  background: clear;
+  border: 1px solid gray;
 }
 
 
@@ -233,7 +233,7 @@ textarea {
   height: 35px;
   padding: 0 10px;
   font-size: 14px;
-  border: 1px solid #ddd;
+  border: 1px solid blue;
 }
 
 textarea {
@@ -242,9 +242,9 @@ textarea {
 
 input[type=submit] {
   padding: 10px 30px;
-  color: #fff;
+  color: gray;
   font-size: 18px;
   cursor: pointer;
-  background: #4aaaa5;
+  background: blue;
   border: 0 none;
 }
