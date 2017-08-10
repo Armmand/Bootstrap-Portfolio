@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 body {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 16px;
   color: gray;
   line-height: 34px;
-  background: url("images/markus-spiske-37176.jpg");
+  background: url("images/");
   background-size: cover;
 }
 
@@ -41,7 +41,7 @@ footer,
 
 
 /*end sticky footer stuff*/
-=======
+
 body {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 16px;
@@ -103,11 +103,11 @@ nav a:hover {
   opacity: .8;
 }
 
->>>>>>> 3aa1c2aa0be0ac783891857dbae52eb51585b577
+
 
 /*general*/
 
-<<<<<<< HEAD
+
 /*start hover stuff*/
 
 #logo:hover,
@@ -184,7 +184,7 @@ h3 {
   height: 50px;
   float: left;
   font-family: 'Georgia', Times, Times New Roman, serif;
-  font-size: 25px;
+  font-size: 16px;
   font-weight: 700;
   color: #00008B;
   text-align: center;
@@ -227,7 +227,6 @@ footer {
 }
 /*footer End*/
 
-=======
 .container {
   width: 100%;
   max-width: 960px;
@@ -285,7 +284,7 @@ h3 {
   height: 90px;
   float: left;
   font-family: 'Georgia', Times, Times New Roman, serif;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 700;
   color: #fff;
   text-align: center;
@@ -328,7 +327,7 @@ footer {
 }
 
 
->>>>>>> 3aa1c2aa0be0ac783891857dbae52eb51585b577
+
 /*sidebar*/
 
 .sidebar {
@@ -338,7 +337,7 @@ footer {
   width: 100%;
   max-width: 270px;
   background:   ;
-  border: 2px solid #00008B;
+  border: 6px solid #00008B;
 }
 
 h3,
@@ -361,10 +360,7 @@ h3,
 }
 /*Sidebar End*/
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 3aa1c2aa0be0ac783891857dbae52eb51585b577
 /*main*/
 
 #main-container {
@@ -379,7 +375,7 @@ h3,
   max-width: 650px;
   background: ;
   border: 2px solid #00008B;
-  color: white;
+  color: black;
 }
 
 
